@@ -75,6 +75,7 @@ Please feel free to create [pull requests](https://github.com/urduhack/awesome-u
 - [IIIT-Hyderabad: Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks, 2017](https://cvit.iiit.ac.in/research/projects/cvit-projects/iiit-urdu-ocr)
 - [CLE Pakistan Urdu Image Corpora](https://www.cle.org.pk/clestore/imagecorpora.htm) (Corresponding [texts](https://www.cle.org.pk/clestore/index.htm))
 - [Cursive-Text: A Benchmark for Urdu Text Recognition in Natural Scene Images, 2020](https://www.sciencedirect.com/science/article/pii/S2352340920306430) - 2500 images, email for dataset
+- [Urdu Novels](https://abibliophile.com/)
 
 ### Urdu Parallel Corpora for Machine Translation
 
